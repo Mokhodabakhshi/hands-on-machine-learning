@@ -20,14 +20,32 @@ Each chapter has its own directory containing exercises, implementations, and ad
 hands-on-machine-learning/
 │
 ├── Chapter-01/
-│   └── ...
+│   └── 01_exercise.md
 │
 ├── Chapter-02/
-│   └── ...
+│   ├── data/
+│   │   ├── housing
+│   │   └── vehicle
+│   ├── 01_exercise.ipynb
+│   ├── 02_exercise.ipynb
+│   ├── 03_exercise.ipynb
+│   ├── 04_exercise.ipynb
+│   ├── 05_exercise.ipynb
+│   ├── 06_exercise.ipynb
+│   └── 07_exercise.ipynb
 │
 ├── Chapter-03/
-|   |── 01_exercise.ipynb
-│   └── 02_exercise.ipynb
+│   ├── data/
+│   │   ├── spamassassin
+│   │   └── titanic
+│   ├── 01_exercise.ipynb
+│   ├── 02_exercise.ipynb
+│   ├── 03_exercise.ipynb
+│   └── 04_exercise.ipynb
+│
+├── Chapter-04/
+│   └── ...
+│
 │
 └── README.md
 ```
