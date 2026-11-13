@@ -44,9 +44,13 @@ hands-on-machine-learning/
 │   └── 04_exercise.ipynb
 │
 ├── Chapter-04/
+|   ├── 01_exercise.ipynb
+│   └── 01_exercise.md
+│
+├── Chapter-05/
 │   └── ...
-│
-│
+|
+|
 └── README.md
 ```
 
