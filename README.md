@@ -59,7 +59,7 @@ hands-on-machine-learning/
 - [x] Chapter 1 – The Machine Learning Landscape
 - [x] Chapter 2 – End-to-End Machine Learning Project
 - [x] Chapter 3 – Classification
-- [ ] Chapter 4 – Training Models
+- [x] Chapter 4 – Training Models
 - [ ] Chapter 5 – Decision Trees
 - [ ] Chapter 6 – Ensemble Learning and Random Forests
 - [ ] Chapter 7 – Dimensionality Reduction
