@@ -43,8 +43,27 @@ hands-on-machine-learning/
 │   ├── 03_exercise.ipynb
 │   └── 04_exercise.ipynb
 │
-├── Chapter-04/
-│   └── ...
+├── chapter-04
+│   ├── 01_exercise.ipynb
+│   └── 01_exercises.md
+│
+├── chapter-05
+│   ├── 01_exercise.ipynb
+│   ├── 01.Exercises.md
+│   └── 02_exercise.ipynb
+│
+├── chapter-06
+│   ├── 01_exercise.ipynb
+│   ├── 01_exercises.md
+│   └── 02_exercise.ipynb
+│
+├── chapter-07
+│   ├── 01_exercise.ipynb
+│   ├── 02_exercise.ipynb
+│   └── exercises.md
+│
+├── chapter-08
+│   └── ...
 │
 │
 └── README.md
@@ -55,10 +74,10 @@ hands-on-machine-learning/
 - [x] Chapter 1 – The Machine Learning Landscape
 - [x] Chapter 2 – End-to-End Machine Learning Project
 - [x] Chapter 3 – Classification
-- [ ] Chapter 4 – Training Models
-- [ ] Chapter 5 – Decision Trees
-- [ ] Chapter 6 – Ensemble Learning and Random Forests
-- [ ] Chapter 7 – Dimensionality Reduction
+- [x] Chapter 4 – Training Models
+- [x] Chapter 5 – Decision Trees
+- [x] Chapter 6 – Ensemble Learning and Random Forests
+- [x] Chapter 7 – Dimensionality Reduction
 - [ ] Chapter 8 – Unsupervised Learning Techniques
 - [ ] Chapter 9 – Introduction to Artificial Neural Networks
 - [ ] Chapter 10 – Building Neural Networks with PyTorch
